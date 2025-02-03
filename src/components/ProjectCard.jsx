@@ -28,7 +28,7 @@ export default function ProjectCard({ project, onImageClick }) {
 
         {project.testimonial && (
           <div className="mt-4 p-4 bg-blue-50 rounded-lg">
-            <p className="text-gray-600 italic">"{project.testimonial.text}"</p>
+            <p className="text-gray-600 italic">{project.testimonial.text}</p>
             <p className="mt-2 text-sm text-blue-600 font-medium">
               - {project.testimonial.client}
             </p>

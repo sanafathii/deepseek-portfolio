@@ -36,7 +36,7 @@ export default function Lightbox({ project, onClose }) {
             {project.testimonial && (
               <div className="mb-4 p-4 bg-blue-50 rounded-lg">
                 <p className="text-gray-600 italic">
-                  "{project.testimonial.text}"
+                  {project.testimonial.text}
                 </p>
                 <p className="mt-2 text-sm text-blue-600 font-medium">
                   - {project.testimonial.client}
