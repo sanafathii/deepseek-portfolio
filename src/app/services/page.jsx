@@ -7,21 +7,21 @@ export default function Services() {
       title: "Web Development",
       description:
         "I build responsive and user-friendly websites using modern technologies like React, Next.js, and Tailwind CSS.",
-      icon: "/icons/web-development.svg", // Replace with your icon
+      icon: "/icons/web-development.svg",
     },
     {
       id: 2,
       title: "Data Analysis",
       description:
         "I analyze and visualize data to uncover insights and help businesses make data-driven decisions.",
-      icon: "/icons/data-analysis.svg", // Replace with your icon
+      icon: "/icons/data-analysis.svg",
     },
     {
       id: 3,
       title: "Machine Learning",
       description:
         "I develop machine learning models to solve complex problems and automate processes.",
-      icon: "/icons/machine-learning.svg", // Replace with your icon
+      icon: "/icons/machine-learning.svg",
     },
   ];
 
